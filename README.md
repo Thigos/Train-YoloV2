@@ -6,7 +6,7 @@ Como treinar:
 1. Clone o repositório [Darknet](https://github.com/AlexeyAB/darknet)
 2. Prepare seu DataSet<br>
   a. Aconselho usar o [LabelImg](https://tzutalin.github.io/labelImg/)
-3. Crie duas pasta dentro de darkflow-master/bin, uma para depositar as imagens (```data_image```) e outro para os rótulos(Pascal VOC Data) das imagens (```annotation```)
+3. Crie duas pastas dentro de darkflow-master/bin, uma para depositar as imagens (```data_image```) e outro para os rótulos(Pascal VOC Data) das imagens (```annotation```)
 4. Baixe o [YoloV2-Tiny](https://pjreddie.com/media/files/yolov2-tiny.weights)<br>
   a. Depois do download coloque ele ta nas pasta darkflow-master/bin
 5. Configure o ```tiny-yolo-voc.cfg``` de acordo com a [documentação](https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects)<br>
