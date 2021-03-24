@@ -15,3 +15,7 @@ Como treinar:
 7. Execute o arquivo ```Train-yolov2.ipynb``` no Google Colab (Coloque o notebook como GPU para acelerar o treinamento).
 
 Mais informações [aqui](https://github.com/AlexeyAB/darknet/tree/47c7af1cea5bbdedf1184963355e6418cb8b1b4f#how-to-train-pascal-voc-data)
+
+IA Treinada com YoloV2:
+
+![image](https://user-images.githubusercontent.com/67590378/112362271-07a1a200-8cb3-11eb-90e7-de426937fded.png)
